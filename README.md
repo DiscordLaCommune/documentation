@@ -2,7 +2,8 @@
 
 ## Serveur Discord
 
- * [Code source de la constitution](constitution.md)
+ * [Constitution](constitution.md)
+ * [Code source de la constitution](constitution_src.md)
 
 ## Équipe technique
 
