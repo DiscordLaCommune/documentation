@@ -8,3 +8,5 @@
 ## Équipe technique
 
 ## Équipe de modération
+
+ * [Guide de la modération](guide_moderation.md)
