@@ -103,9 +103,9 @@ Tout les mois, une élection est organisée pour renouveler l'équipe téchnique
 ## ARTICLE IX
 
 Les modérateur.ice.s sont ici pour réguler les rapports entre les membres. Leur but est d’accueillir les arrivant.e.s en vérifiant leur identité et d’encadrer les discussions entre les membres. Afin d’accomplir leur rôle, iels ont la possibilité de:
-:small_orange_diamond: Expulser ou bannir les membres enfreignant le règlement,
-:small_orange_diamond: Supprimer les messages abusifs ou hors-sujet,
-:small_orange_diamond: Couper le micro et le son d’un.e membre et les déplacer dans un autre salon vocal.
+ * Expulser ou bannir les membres enfreignant le règlement,
+ * Supprimer les messages abusifs ou hors-sujet,
+ * Couper le micro et le son d’un.e membre et les déplacer dans un autre salon vocal.
 
 Tout les mois, une élection est organisée pour renouveler l'équipe de modération. Un membre ne peut se representer qu'une fois de suite.
 Aucun membre de l'équipe techinque ne doit être modérateur.rice et inversement, afin de respecter la séparation des pouvoirs.
