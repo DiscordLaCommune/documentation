@@ -1,1 +1,1 @@
-# Documentation de « La Commune »
+# Documentation du Discord « La Commune »
