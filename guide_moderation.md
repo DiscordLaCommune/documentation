@@ -36,3 +36,7 @@ Dans le deuxième cas, n'oubliez pas de supprimer le rôle @À interroger.
 
 Lorsqu’une personne devient admise, demandez-lui si elle est concernée par les salons non-mixtes du serveur, puis informez les modérateur.rice.s présent.e dans les non-mixtes de l’arrivé d’un nouveau membre.
 Informez aussi la personne qu’elle peut s’attribuer les étiquettes qu’elle veut, et présentez rapidement les rôles d’abonnements et de traduction.
+
+## Salle de réflexion
+
+Si plusieurs modérateur.rice.s l'estime nécessaire, un membre peut être passé en salle de réflexion. Pour cela, ajoutez le rôle @Salle de reflexion à la personne, et enlevez le rôle @Admis-e-s.
