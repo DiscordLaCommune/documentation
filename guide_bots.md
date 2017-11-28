@@ -58,6 +58,10 @@ La ligne ``{silent}`` permet de ne pas afficher le message automatique de Dynobo
 La ligne ``{respond:#general}`` indique où afficher le message, indépendament d'où est tapée la commande.
 Le reste de la commande représente le message à afficher. Le symbole ``#1+`` est remplacé par tout ce qui suivra après ``!admission ``, c'est à dire le nom de l'utilisateur
 
+### Créer une nouvelle commande
+
+Allez sur (la page de configuration de DynoBot)[https://www.dynobot.net/], connectez-vous, puis sélectionnez le serveur « La Commune ». Dans le menu, cliquez sur « Custom Commands ». Dans l'onglet « Add Command », remplissez les champs « Command » (sans marquer le !) et « Response » (le code de votre commande). Validez avec « Add », attendez quelques minutes et testez votre commande.
+
 ## FredBoat
 
 FredBoat est un bot pour difuser de la musique dans les salons vocaux.
