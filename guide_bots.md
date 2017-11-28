@@ -3,7 +3,7 @@
 ## Dynobot (Garde rouge tolérant)
 
 Dynobot est un bot multifonction. Pour le configurer, vous devez être membre de l'équipe technique.
-(La page de configuration se trouve ici)[https://www.dynobot.net/]
+[La page de configuration se trouve ici](https://www.dynobot.net/)
 
 
 ### Commande d'acceptation des invité.e.s
@@ -60,7 +60,7 @@ Le reste de la commande représente le message à afficher. Le symbole ``#1+`` e
 
 ### Créer une nouvelle commande
 
-Allez sur (la page de configuration de DynoBot)[https://www.dynobot.net/], connectez-vous, puis sélectionnez le serveur « La Commune ». Dans le menu, cliquez sur « Custom Commands ». Dans l'onglet « Add Command », remplissez les champs « Command » (sans marquer le !) et « Response » (le code de votre commande). Validez avec « Add », attendez quelques minutes et testez votre commande.
+Allez sur [la page de configuration de DynoBot](https://www.dynobot.net/), connectez-vous, puis sélectionnez le serveur « La Commune ». Dans le menu, cliquez sur « Custom Commands ». Dans l'onglet « Add Command », remplissez les champs « Command » (sans marquer le !) et « Response » (le code de votre commande). Validez avec « Add », attendez quelques minutes et testez votre commande.
 
 ## FredBoat
 
