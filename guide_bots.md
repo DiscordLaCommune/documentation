@@ -70,6 +70,14 @@ FredBoat est un bot pour difuser de la musique dans les salons vocaux.
 
 Le code source de ce bot est [disponible ici](https://github.com/DiscordLaCommune/BotVote).
 
+### Bannir une personne
+
+Utilisez la commande ``@La Commune ban @LeNom#1234`` pour bannir @LeNom#1234. Attention, cette commande est limité à raison d'un ban par personne et par jour. Vous pouvez aussi kicker une personne avec la commande ``@La Commune kick @LeNom#1234``.
+
+### Sujet des salons
+
+Le bot La Commune peut répéter un ordre du jour ou une annonce dans un salon. Pour cela, utilisez la commande suivante : ``@La Commune topic Mon Message``. « Mon Message » va être alors affiché régulièrement dans ce salon. Pour supprimer ce message, utilisez la commande ``@La Commune topic``.
+
 ## Réseau Antifa
 
 ## People's Democratic Bot
