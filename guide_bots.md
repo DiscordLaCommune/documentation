@@ -82,6 +82,12 @@ Utilisez la commande ``@La Commune ban @LeNom#1234`` pour bannir @LeNom#1234. At
 
 Le bot La Commune peut répéter un ordre du jour ou une annonce dans un salon. Pour cela, utilisez la commande suivante : ``@La Commune topic Mon Message``. « Mon Message » va être alors affiché régulièrement dans ce salon. Pour supprimer ce message, utilisez la commande ``@La Commune topic``.
 
+### Organiser un vote populaire
+
+Dans le salon #vote_populaire, utilisez la commande suivante : ``@La Commune vote Description`` (remplacez Description par un message explicatif. Lorsque le vote est actif, envoyez un @everyone dans le même salon.
+
+Si vous souhaitez lancer un vote pour une durée plus courte, utilisez l'option ``hXX``. Par exemple, pour une durée de deux heures : ``@La Commune vote h2 Description``.
+
 ## Réseau Antifa
 
 ## People's Democratic Bot
