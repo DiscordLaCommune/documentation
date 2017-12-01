@@ -55,6 +55,6 @@ Cette élection fonctionne selon le système dit du jugement majoritaire ( https
 ```
 N'oubliez pas de changer la date limite du vote dans ce message.
 Postez maintenant le nom du poste pour les candidat·e·s. Par exemple ```__**CANDIDATURES AU POSTE DE MODERATEUR.RICE**__```
-Maintenant, pour chaque candidat·e, utilisez la commande suivante :  ``@La Commune vote judg short LeNom``, en remplaçant bien « LeNom » par le nom de la personne qui candidate. Attention, n'utilisez pas les mentions (@) sinon les confirmations de vote seront illisable.
+Maintenant, pour chaque candidat·e, utilisez la commande suivante :  ``@La Commune vote judge short LeNom``, en remplaçant bien « LeNom » par le nom de la personne qui candidate. Attention, n'utilisez pas les mentions (@) sinon les confirmations de vote seront illisable.
 
 Pour finir, lancez un @everyone, par exemple de la façon suivante : ``@everyone Le vote pour les modérateur.rice.s est ouvert ! Les instructions de trouvent plus haut.``
