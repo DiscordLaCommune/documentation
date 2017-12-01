@@ -5,6 +5,14 @@
 Dynobot est un bot multifonction. Pour le configurer, vous devez être membre de l'équipe technique.
 [La page de configuration se trouve ici](https://www.dynobot.net/)
 
+### Créer une nouvelle commande
+
+Allez sur [la page de configuration de DynoBot](https://www.dynobot.net/), connectez-vous, puis sélectionnez le serveur « La Commune ». Dans le menu, cliquez sur « Custom Commands ». Dans l'onglet « Add Command », remplissez les champs « Command » (sans marquer le !) et « Response » (le code de votre commande). Validez avec « Add », attendez quelques minutes et testez votre commande.
+
+### Modifier une commande
+
+Allez sur [la page de configuration de DynoBot](https://www.dynobot.net/), connectez-vous, puis sélectionnez le serveur « La Commune ». Dans le menu, cliquez sur « Custom Commands ». Dans l'onglet « Commands », trouvez la commande à modifier. Copiez le code de la commande dans un fichier, puis cliquez sur « Remove » dans l'interface. Vous pouvez maintenant ajouter une version modifiée de cette commande comme décrit dans la séction « Créer une nouvelle commande ».
+Attention, lorsque vous copiez le code de la commande, les retours à la ligne sont supprimez. Vous devez les ajouter vous-même.
 
 ### Commande d'acceptation des invité.e.s
 
@@ -58,36 +66,28 @@ La ligne ``{silent}`` permet de ne pas afficher le message automatique de Dynobo
 La ligne ``{respond:#general}`` indique où afficher le message, indépendament d'où est tapée la commande.
 Le reste de la commande représente le message à afficher. Le symbole ``#1+`` est remplacé par tout ce qui suivra après ``!admission ``, c'est à dire le nom de l'utilisateur
 
-### Créer une nouvelle commande
-
-Allez sur [la page de configuration de DynoBot](https://www.dynobot.net/), connectez-vous, puis sélectionnez le serveur « La Commune ». Dans le menu, cliquez sur « Custom Commands ». Dans l'onglet « Add Command », remplissez les champs « Command » (sans marquer le !) et « Response » (le code de votre commande). Validez avec « Add », attendez quelques minutes et testez votre commande.
-
 ## FredBoat
 
 FredBoat est un bot pour difuser de la musique dans les salons vocaux.
 
-## DuckHunt (chasse aux fafs)
+## DuckHunt (Chasse aux fafs)
+
+DuckHunt est me bot permetant de jouer dans le salon #chasse_aux_fafs.
 
 ## NotSoBot
 
+NosSoBot est un bot permettant de faire du shitpost dans #shitpost.
+
+## People's Democratic Bot
+
+People's Democratic Bot est un bot permettant de faire des visuels détournés d'affiches de propagandes communistes.
+
 ## La Commune
 
+La Commune est un bot fait par les membres de La Commune. Il permet de faire d'organiser des votes, de faire des annonces et de permettre aux admis·es de bannir.
 Le code source de ce bot est [disponible ici](https://github.com/DiscordLaCommune/BotVote).
-
-### Bannir une personne
-
-Utilisez la commande ``@La Commune ban @LeNom#1234`` pour bannir @LeNom#1234. Attention, cette commande est limité à raison d'un ban par personne et par jour. Vous pouvez aussi kicker une personne avec la commande ``@La Commune kick @LeNom#1234``.
-
-### Sujet des salons
-
-Le bot La Commune peut répéter un ordre du jour ou une annonce dans un salon. Pour cela, utilisez la commande suivante : ``@La Commune topic Mon Message``. « Mon Message » va être alors affiché régulièrement dans ce salon. Pour supprimer ce message, utilisez la commande ``@La Commune topic``.
-
-### Organiser un vote populaire
-
-Dans le salon #vote_populaire, utilisez la commande suivante : ``@La Commune vote Description`` (remplacez Description par un message explicatif. Lorsque le vote est actif, envoyez un @everyone dans le même salon.
-
-Si vous souhaitez lancer un vote pour une durée plus courte, utilisez l'option ``hXX``. Par exemple, pour une durée de deux heures : ``@La Commune vote h2 Description``.
 
 ## Réseau Antifa
 
-## People's Democratic Bot
+Le Réseau Antifa est un bot qui permet de bannir de façon synchronisée les fafs sur plusieurs serveurs en même temps. 
+
