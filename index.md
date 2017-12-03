@@ -5,7 +5,7 @@
  * [Constitution](constitution.md)
  * [Code source de la constitution](constitution_src.md)
  * [Les commandes utilisables sur le serveur](commandes.md)
- * [Généralités sur le fonctionnement de la Commune] (generalites.md)
+ * [Généralités sur le fonctionnement de "La Commune"] (generalites.md)
 
 ## Équipe technique
 
