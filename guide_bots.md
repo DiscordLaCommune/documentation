@@ -19,7 +19,7 @@ Attention, lorsque vous copiez le code de la commande, les retours à la ligne s
 La commande ``!public`` prend en paramètre le nom de la personne à passer en invité.e. Elle change les rôles de la personne et affiche une annonce dans #discussions_publique. Elle s'utilise de la façon suivante :
 
 ```
-!public LeNom#1234
+!public @LeNom#1234
 ```
 
 Son code source est le suivant :
@@ -45,7 +45,7 @@ Le reste de la commande représente le message à afficher. Le symbole ``#1+`` e
 La commande ``!admission`` prend en paramètre le nom de la personne à accepter. Elle change les rôles de la personne et affiche une annonce dans #general. Elle s'utilise de la façon suivante :
 
 ```
-!admission LeNom#1234
+!admission @LeNom#1234
 ```
 
 Son code source est le suivant :
