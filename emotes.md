@@ -1,11 +1,14 @@
 # Comment créer une émote avec un fond transparent ?
 
 Prenons par exemple le logo de La Commune. Imaginons que vous vouliez créer une émote reprenant le cube avec le texte, sans le fond rouge.
-Vous avez cette image : ![logo au début](La commune départ.png)
-Et vous voudriez obtenir celle-ci : ![logo à la fin](lacommune final.png)
+Vous avez cette image : 
+![logo au début](La commune départ.png)
+Et vous voudriez obtenir celle-ci : 
+![logo à la fin](lacommune final.png)
 Pour cela, il faut faire disparaitre le fond rouge de l'image. Ce guide vous explique la démarche à suivre.
 
-Ce guide fonctionne pour les émotes créées sous Gimp. Si vous n'avez pas ce logiciel, vous pouvez le trouver ici : https://www.gimp.org/fr
+Ce guide fonctionne pour les émotes créées sous Gimp. Si vous n'avez pas ce logiciel, vous pouvez le trouver 
+[ici](https://www.gimp.org/fr)
 
 ## 1ère étape : création de calque
 Ouvrir l'image avec Gimp 
@@ -35,6 +38,6 @@ Vous obtenez votre image, avec un fond transparent, prête à être sauvegardée
 Pour cela : Fichier > exporter sous 
 Nommez votre fichier avec l'extension .png : le_nom.png . Dans notre exemple, notre emote s'appelle Lacommune.png
 Cliquez sur « export ». Une fenêtre apparaît, cliquez de nouveau sur « export »
-[Exporter l'image créée](logo la commune 4.png)
+![Exporter l'image créée](logo la commune 4.png)
 C'est terminé, votre image est prête à être ajoutée aux autres émotes du serveur.
 
