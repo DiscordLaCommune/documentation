@@ -42,7 +42,7 @@ Maintenant que le fond (ou une partie du fond si vous travaillez en plusieurs é
   
 Une fois le fond sélectionné, faire Ctrl + x. Le fond disparaît.
 
-![Le logo après diparition du fond](images/alpha.png)
+![Le logo après diparition du fond](images/guide_emote_alpha.png)
 
 Puis sélection > aucun pour désélectionner l'image
 
