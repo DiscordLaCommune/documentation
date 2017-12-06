@@ -42,7 +42,7 @@ Maintenant que le fond (ou une partie du fond si vous travaillez en plusieurs é
   
 Une fois le fond sélectionné, faire Ctrl + x. Le fond disparaît.
 
-![Le logo après diparition du fond](images/Logo_la_commune_3_2.png)
+![Le logo après diparition du fond](images/alpha.png)
 
 Puis sélection > aucun pour désélectionner l'image
 
@@ -59,7 +59,7 @@ Nommez votre fichier avec l'extension .png : le_nom.png . Dans notre exemple, n
 
 Cliquez sur « export ». Une fenêtre apparaît, cliquez de nouveau sur « export »
 
-![Exporter l'image créée](images/logo_la_commune_4_2.png)
+![Exporter l'image créée](images/guide_emote_export.png)
 
 C'est terminé, votre image est prête à être ajoutée aux autres émotes du serveur.
 
