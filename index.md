@@ -6,6 +6,7 @@
  * [Code source de la constitution](constitution_src.md)
  * [Les commandes utilisables sur le serveur](commandes.md)
  * [Généralités sur le fonctionnement de "La Commune"](generalites.md)
+ * [Comment créer une émote avec un fond transparent (guide)](emotes.md)
 
 ## Équipe technique
 
