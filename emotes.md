@@ -1,9 +1,13 @@
 # Comment créer une émote avec un fond transparent ?
 
 Prenons par exemple le logo de La Commune. Imaginons que vous vouliez créer une émote reprenant le cube avec le texte, sans le fond rouge.
+
 Vous avez cette image : 
+
 ![logo au début](La_commune_depart_1.png)
+
 Et vous voudriez obtenir celle-ci : 
+
 ![logo à la fin](la_commune_final.png)
 Pour cela, il faut faire disparaitre le fond rouge de l'image. Ce guide vous explique la démarche à suivre.
 
