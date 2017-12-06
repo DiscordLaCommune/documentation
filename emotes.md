@@ -16,8 +16,11 @@ Ce guide fonctionne pour les émotes créées sous Gimp. Si vous n'avez pas ce l
 
 ## 1ère étape : création de calque
 Ouvrir l'image avec Gimp 
+
 Vous obtenez ceci : 
-![Aperçu de Gimp](Logo_La_commune_1.png)
+
+![Aperçu de Gimp](Logo_La_commune_1_2.png)
+
 Faire un clique droit sur l'image > calque > dupliquer le calque. Vous obtenez alors une copie de l'image, comme on peut le voir ici :
 ![Création d'une copie de l'image](Logo_la_commune_2.png)
 Puis clique droit sur l'image > calque > fusionner vers le bas
