@@ -24,6 +24,18 @@ Utilisez la commande ``@La Commune ban @LeNom#1234`` pour bannir @LeNom#1234. At
 
 Le bot La Commune peut répéter un ordre du jour ou une annonce dans un salon. Pour cela, utilisez la commande suivante : ``@La Commune topic Mon Message``. « Mon Message » va être alors affiché régulièrement dans ce salon. Pour supprimer ce message, utilisez la commande ``@La Commune topic``.
 
+### Gestion des messages partagés
+
+Un message partagé est un message posté par le bot La Commune, et qui est modifiable par tout le monde.
+
+Pour créer un message partagé, allez dans le salon souhaité, puis utilisez la commande suivante : ``@La Commune add-msg nom Mon texte``. Un message « Mon texte » va alors être posté par le bot. L'identifiant de ce message sera ``nom``. Pour l'identifiant du message, n'utilisez que les caractères alphanumériques et les tirets (-). N'utilisez pas d'espace.
+
+Pour éditer un message partagé, utilisez la commande suivante depuis n'importe quel salon : ``@La Commune edit-msg nom Mon nouveau texte``. Le message posté par le bot va être édité et contiendra le texte « Mon nouveau texte ». Notez que vous devez avoir les droits d'écriture et de lecture dans le salon où est posté le message partagé.
+
+Pour supprimer un message partagé, utilisez la commande suivante depuis n'importe quel salon : ``@La Commune delete-msg nom``. Le message identifié par ``nom`` sera supprimé. Notez que vous devez avoir les droits d'écriture et de lecture dans le salon où est posté le message partagé.
+
+Pour afficher le code d'un message partagé, utilisez la commande suivante : ``@La Commune view-msg nom``. Cette commande fonctionne également avec l'ID Discord de tout les messages postés sur le salon courant. Ainsi, si vous utilisez la commande ``@La Commune view-msg 345955506877366273`` dans le salon #general, vous verez le code du message posté par un autre utilisateur.
+
 ### Organiser un vote populaire
 
 Dans le salon #vote_populaire, utilisez la commande suivante : ``@La Commune vote Description`` (remplacez Description par un message explicatif. Lorsque le vote est actif, envoyez un @everyone dans le même salon.
