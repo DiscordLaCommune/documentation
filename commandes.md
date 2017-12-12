@@ -16,15 +16,15 @@ La commande ``!admission`` prend en paramètre le nom de la personne à accepter
 !admission @LeNom#1234
 ```
 
-### Bannir une personne
+## Bannir une personne
 
 Utilisez la commande ``@La Commune ban @LeNom#1234`` pour bannir @LeNom#1234. Attention, cette commande est limité à raison d'un ban par personne et par jour. Vous pouvez aussi kicker une personne avec la commande ``@La Commune kick @LeNom#1234``.
 
-### Sujet des salons
+## Sujet des salons
 
 Le bot La Commune peut répéter un ordre du jour ou une annonce dans un salon. Pour cela, utilisez la commande suivante : ``@La Commune topic Mon Message``. « Mon Message » va être alors affiché régulièrement dans ce salon. Pour supprimer ce message, utilisez la commande ``@La Commune topic``.
 
-### Gestion des messages partagés
+## Gestion des messages partagés
 
 Un message partagé est un message posté par le bot La Commune, et qui est modifiable par tout le monde.
 
@@ -36,13 +36,13 @@ Pour supprimer un message partagé, utilisez la commande suivante depuis n'impor
 
 Pour afficher le code d'un message partagé, utilisez la commande suivante : ``@La Commune view-msg nom``. Cette commande fonctionne également avec l'ID Discord de tout les messages postés sur le salon courant. Ainsi, si vous utilisez la commande ``@La Commune view-msg 345955506877366273`` dans le salon #general, vous verez le code du message posté par un autre utilisateur.
 
-### Organiser un vote populaire
+## Organiser un vote populaire
 
 Dans le salon #vote_populaire, utilisez la commande suivante : ``@La Commune vote Description`` (remplacez Description par un message explicatif. Lorsque le vote est actif, envoyez un @everyone dans le même salon.
 
 Si vous souhaitez lancer un vote pour une durée plus courte, utilisez l'option ``hXX``. Par exemple, pour une durée de deux heures : ``@La Commune vote h2 Description``.
 
-### Organiser un vote avec jugement majoritaire
+## Organiser un vote avec jugement majoritaire
 
 Dans le salon #vote_populaire, postez le message suivant :
 ```
