@@ -94,11 +94,11 @@ La modération peut réhabiliter une personne exclue après un certain temps si 
 
 ## ARTICLE VIII
 
-Les technicien.ne.s sont ici pour gerer les permissions, les salons, les bots et les services connectés à Discord. Iels bénéficient de la permission « administration » mais ne doivent pas effectuer de modification sans que les membres leurs aient demandé, à l'exception des opérations de maintenance et des opérations cosmétiques.
-L'équipe technique peut donner son avis au même titre que tout les membres, mais ne doit pas trancher les décisions.
-Elle ne doit pas effecter les taches propre à l'équipe de modération (voir article suivant).
+Les technicien.ne.s sont ici pour gérer les permissions, les salons, les bots et les services connectés à Discord. Iels bénéficient de la permission « administration » mais ne doivent pas effectuer de modification sans que les membres leurs aient demandé, à l'exception des opérations de maintenance et des opérations cosmétiques.
+L'équipe technique peut donner son avis au même titre que tous les membres, mais ne doit pas trancher les décisions.
+Elle ne doit pas effectuer les tâches propre à l'équipe de modération (voir article suivant).
 
-Tout les mois, une élection est organisée pour renouveler l'équipe téchnique. Un membre ne peut se representer qu'une fois de suite.
+Tous les mois, une élection est organisée pour renouveler l'équipe téchnique. Un membre ne peut se représenter qu'une fois de suite.
 
 ## ARTICLE IX
 
@@ -107,8 +107,8 @@ Les modérateur.ice.s sont ici pour réguler les rapports entre les membres. Leu
  * Supprimer les messages abusifs ou hors-sujet,
  * Couper le micro et le son d’un.e membre et les déplacer dans un autre salon vocal.
 
-Tout les mois, une élection est organisée pour renouveler l'équipe de modération. Un membre ne peut se representer qu'une fois de suite.
-Aucun membre de l'équipe techinque ne doit être modérateur.rice et inversement, afin de respecter la séparation des pouvoirs.
+Tous les mois, une élection est organisée pour renouveler l'équipe de modération. Un membre ne peut se représenter qu'une fois de suite.
+Aucun membre de l'équipe technique ne doit être modérateur.rice et inversement, afin de respecter la séparation des pouvoirs.
 Si vous pensez qu'un membre de l'équipe de modération ou de l'équipe technique abuse de ses pouvoirs, n’hésitez pas à contacter les autres membres des équipes pour en parler. Si le comportement se reproduit, vous pouvez demander sa destitution. Si la demande est légitime, une scrutin majoritaire contraignant sera organisé.
 
 ## ARTICLE X
