@@ -26,13 +26,13 @@ A venir :!admission-en
 
 **!goche** : Cotentin choisit la goche
 
-!pdp : 
+!pdp : https://media.giphy.com/media/26u4iQN8qCye9XjlC/giphy.gif
 
 **!souriez** : vers une purge Stalinienne
 
-**!doc** : vers ce document : http://doc.la-commune.net/
+**!doc** : vers {le document La Commune}(http://doc.la-commune.net/)
 
-!printemps : 
+!printemps : https://media.giphy.com/media/EX6TdKFbVmHzq/giphy.gif
 
 ### Citations
 
@@ -80,19 +80,19 @@ Le topic sera répété sur le salon concerné tous les 30 messages, jusqu’à 
 
 `@La Commune topic <texte>` : ajoute/change le sujet de la discussion. 
 
-@La Commune topic : supprime le sujet de la discussion. 
+``@La Commune topic`` : supprime le sujet de la discussion. 
 
 ### Kick/ban d’une personne
 
-@La Commune ban @LeNom#1234 : ban une personne. 
+``@La Commune ban @LeNom#1234`` : ban une personne. 
 
-@La Commune kick @LeNom#1234 : kick une personne. 
+``@La Commune kick @LeNom#1234`` : kick une personne. 
 
 ### Message éditable par l’ensemble des admis.es. 
 
-Utilisé notamment pour la constitution : les technicien.nes en poste peuvent éditer et modifier la constitution postée par le bot @ la commune.
+Utilisé notamment pour la constitution : les technicien.nes en poste peuvent éditer et modifier la constitution postée par le bot @ La Commune.
 
-`@La Commune add-msg <name> <texte>` : poste un message éditable par tout le monde. Remplacez <name> par un identifiant pour ce message 
+`@La Commune add-msg <name> <texte>` : poste un message éditable par tout le monde. Remplacez ``<name>`` par un identifiant pour ce message 
 
 ``@La Commune edit-msg <name> <texte>`` : affiche le code d'un message à partir de son ID ou de son identifiant. 
 
