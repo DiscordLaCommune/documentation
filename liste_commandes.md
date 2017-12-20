@@ -30,7 +30,7 @@ A venir :!admission-en
 
 **!souriez** : vers une purge Stalinienne
 
-**!doc** : vers {le document La Commune}(http://doc.la-commune.net/)
+**!doc** : vers [le document La Commune](http://doc.la-commune.net/)
 
 !printemps : https://media.giphy.com/media/EX6TdKFbVmHzq/giphy.gif
 
