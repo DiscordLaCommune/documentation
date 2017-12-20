@@ -1,5 +1,7 @@
 # Liste des commandes
 
+Cette liste recense les commandes disponibles. Pour plus de détails sur leur utilisation, vous pouvez vous référer à [cette page](commandes.md)
+
 ## Cotentin 
 
 ### Actions
