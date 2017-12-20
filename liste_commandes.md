@@ -78,7 +78,7 @@ Pour voir le texte, vous pouvez faire des essais dans #shitpost
 
 Le topic sera répété sur le salon concerné tous les 30 messages, jusqu’à suppression du sujet de la conversation
 
-@La Commune topic <texte> : ajoute/change le sujet de la discussion. 
+`@La Commune topic <texte>` : ajoute/change le sujet de la discussion. 
 
 @La Commune topic : supprime le sujet de la discussion. 
 
@@ -92,19 +92,19 @@ Le topic sera répété sur le salon concerné tous les 30 messages, jusqu’à 
 
 Utilisé notamment pour la constitution : les technicien.nes en poste peuvent éditer et modifier la constitution postée par le bot @ la commune.
 
-@La Commune add-msg <name> <texte> : poste un message éditable par tout le monde. Remplacez <name> par un identifiant pour ce message 
+`@La Commune add-msg <name> <texte>` : poste un message éditable par tout le monde. Remplacez <name> par un identifiant pour ce message 
 
-@La Commune edit-msg <name> <texte> : affiche le code d'un message à partir de son ID ou de son identifiant. 
+``@La Commune edit-msg <name> <texte>`` : affiche le code d'un message à partir de son ID ou de son identifiant. 
 
-@La Commune view-msg <name ou id> : affiche le code d'un message à partir de son ID ou de son identifiant. 
+``@La Commune view-msg <name ou id>`` : affiche le code d'un message à partir de son ID ou de son identifiant. 
 
-@La Commune list-msg : affiche la liste des messages éditables. 
+``@La Commune list-msg`` : affiche la liste des messages éditables. 
 
-@La Commune link-msg <name> <channelId> <msgId> : ajoute un message posté par ce bot comme message partagé. 
+``@La Commune link-msg <name> <channelId> <msgId>`` : ajoute un message posté par ce bot comme message partagé. 
 
 ### Les différentes commandes pour lancer un vote
 
-@La Commune vote [options] <texte> : lancer un scrutin. Remplacez <texte> par la question à vote. 
+``@La Commune vote [options] <texte>`` : lancer un scrutin. Remplacez ``<texte>`` par la question à voter. 
 
 Les options possibles sont : 
 
