@@ -5,6 +5,9 @@ Cette liste recense les commandes disponibles. Pour plus de détails sur leur ut
 ## Cotentin 
 
 ### Actions
+
+**!commandes** : permet d'accéder à cette liste
+
 **!invite** : permet d’avoir un lien d’invitation sur la Commune toujours valide, via la page http://www.la-commune.net 
 
 **!clivage** : Cotentin nous révèle si quelque chose est de drouate ou de goche
@@ -20,9 +23,9 @@ Cette liste recense les commandes disponibles. Pour plus de détails sur leur ut
 A venir :!admission-en
 
 ### Liens
-**!rsi** : vers le site Radicalisé.es sur internet
+**!rsi** : vers le site [Radicalisé.es sur internet](http://www.radicalisees-sur-internet.fr/)
 
-**!politiscales** : vers le Politiscales
+**!politiscales** : vers le [Politiscales](http://politiscales.la-commune.net/)
 
 **!drouate** : Cotentin choisit la drouate
 
@@ -30,7 +33,7 @@ A venir :!admission-en
 
 !pdp : https://media.giphy.com/media/26u4iQN8qCye9XjlC/giphy.gif
 
-**!souriez** : vers une purge Stalinienne
+**!souriez** : vers [une purge Stalinienne](https://cdn.discordapp.com/attachments/346357474963750923/384610727559692298/poster.png)
 
 **!doc** : vers [le document La Commune](http://doc.la-commune.net/)
 
