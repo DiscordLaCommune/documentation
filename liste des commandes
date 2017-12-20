@@ -1,8 +1,8 @@
-#Liste des commandes utilisables sur La Commune 
+# Liste des commandes utilisables sur La Commune 
 
-##Cotentin 
+## Cotentin 
 
-###Actions :
+### Actions :
 !invite : permet d’avoir un lien d’invitation sur la Commune toujours valide, via la page http://www.la-commune.net 
 !clivage : Cotentin nous révèle si quelque chose est de drouate ou de goche
 !admission : permet de passer un.e invité.e / à interroger en admis.e
@@ -11,7 +11,7 @@
 !public-en : pour passer en invité.e + à interroger les nouveau.lles anglophone. Iels sont dirigé.es vers le salon #english_chat
 A venir :!admission-en
 
-###Liens :
+### Liens :
 !rsi : vers le site Radicalisé.es sur internet
 !politiscales : vers le Politiscales
 !drouate : Cotentin choisit la drouate
@@ -21,7 +21,7 @@ A venir :!admission-en
 !doc : vers ce document : le document La Commune
 !printemps : vers  	https://media.giphy.com/media/EX6TdKFbVmHzq/giphy.gif
 
-###Citations : 
+### Citations : 
 !upr
 !carrefour
 !darkplagueis
@@ -40,24 +40,26 @@ A venir :!admission-en
 !wsh
 !changer
 
-##La commune
+## La commune
 
-###Ajouter un topic
+### Ajouter un topic
 Le topic est un sujet de discussion qui sera répété sur le salon concerné tous les 30 messages, jusqu’à sa suppression
 @La Commune topic <texte> : ajoute/change le sujet de la discussion. 
 @La Commune topic : supprime le sujet de la discussion. 
 
-###Kick/ban d’une personne
+### Kick/ban d’une personne
 @La Commune ban @LeNom#1234 : ban une personne. 
 @La Commune kick @LeNom#1234 : kick une personne. 
-Message éditable par l’ensemble des admis.es. Utilisé notamment pour la constitution : les technicien.nes en poste peuvent éditer et modifier la constitution postée par le bot @ la commune.
+
+### Message éditable par l’ensemble des admis.es. 
+Utilisé notamment pour la constitution : les technicien.nes en poste peuvent éditer et modifier la constitution postée par le bot @ la commune.
 @La Commune add-msg <name> <texte> : poste un message éditable par tout le monde. Remplacez <name> par un identifiant pour ce message 
 @La Commune edit-msg <name> <texte> : affiche le code d'un message à partir de son ID ou de son identifiant. 
 @La Commune view-msg <name ou id> : affiche le code d'un message à partir de son ID ou de son identifiant. 
 @La Commune list-msg : affiche la liste des messages éditables. 
 @La Commune link-msg <name> <channelId> <msgId> : ajoute un message posté par ce bot comme message partagé. 
 
-###Les différentes commandes pour lancer un vote :
+### Les différentes commandes pour lancer un vote :
 @La Commune vote [options] <texte> : lancer un scrutin. Remplacez <texte> par la question à vote. 
 Les options possibles sont : 
 - short : affiche la question du vote et les réactions, mais cache les instructions.
