@@ -21,7 +21,7 @@ L'admission des nouveaux membres devra, donc, suivre les étapes décrites ci-de
 :small_orange_diamond: Fournir des informations suffisantes permettant de determiner si vous êtes quelqu'un de gauche (compte twitter, personne(s) connue(s) sur le serveur...) dans le canal #accueil.
 :small_orange_diamond: Si les membres du serveur l'estiment necessaire, il est possible de faire passer aux nouveaux·elles un entretrien oral dans le canal vocal #interrogatoires.
 
-Une fois accepté·e, vous obtenez l'étiquettes @admis·e et êtes libres de vous attribuer les étiquettes de votre choix à l'exception des étiquettes "**Féministes**", "**Racisé·e·s**", "**LGBT+**" et "**Neuroatypiques**" qui sont réservées aux concerné·e·s (Vous pouvez en revanche vous afficher en tant qu'allié·e si vous le souhaitez).
+Une fois accepté·e, vous obtenez l'étiquettes @admis·e et êtes libres de vous attribuer les étiquettes de votre choix à l'exception des étiquettes "**Féministes**", "**Racisé·e·s**", "**LGBT+**" et "**Neurodivergent**" qui sont réservées aux concerné·e·s (Vous pouvez en revanche vous afficher en tant qu'allié·e si vous le souhaitez).
 
 Si les étiquettes existantes ne vous conviennent pas, vous êtes libres de créer les vôtres, dans la limite du raisonnable.
 
@@ -56,7 +56,7 @@ Il existe des salons non-mixtes, seulement les concerné.e.s peuvent y en revend
 :small_orange_diamond: **#nm_racise-e-s** : pour les personnes victimes de racisme systémique.
 :small_orange_diamond: **#nm_feministe** : pour toutes les personnes qui ne sont pas des hommes cisgenres.
 :small_orange_diamond: **#nm_lgbti** : pour toutes les personnes se reconnaissant dans l’étiquette LGBT+.
-:small_orange_diamond: **#nm_neuroatypique** : Pour les personnes neuroatypique / psychoatypique (autisme, HPI/HQI/HP/Zèbre, troubles du comportements, de la personnalité, dys etc)
+:small_orange_diamond: **#nm_neurodivergent** : Pour les personnes neurodivergentes (autisme, HPI/HQI/HP/Zèbre, troubles du comportements, de la personnalité, dys etc)
 .
 ```
 ```
@@ -132,6 +132,6 @@ Si vous pensez qu'un membre de l'équipe de modération ou de l'équipe techniqu
 ```
 :scroll: **ARTICLE XI** :scroll: 
 
-Les salons/serveurs #nm_feministe, #nm_lgbti, #nm_racise-e-s et #nm_neuroatypique peuvent former une assemblée non-mixte afin d'outrepasser les décisions la modération concernant l'acceptation/le bannissement des personnes, afin de pouvoir exclure simplement et rapidement toutes personnes toxiques.
+Les salons/serveurs #nm_feministe, #nm_lgbti, #nm_racise-e-s et #nm_neurodivergent peuvent former une assemblée non-mixte afin d'outrepasser les décisions la modération concernant l'acceptation/le bannissement des personnes, afin de pouvoir exclure simplement et rapidement toutes personnes toxiques.
 .
 ```
