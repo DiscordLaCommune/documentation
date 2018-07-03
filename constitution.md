@@ -1,120 +1,113 @@
-La dernière version de la constitution est disponible en format code Discord [ici](constitution_src.md)
+📜 __**Préambule**__ 📜 
 
-# Modifications
+Tous les membres de la Commune s'engagent à lire et respecter la présente Constitution, qui décrit la visée du serveur, son fonctionnement général, puis les considérations relatives à l'administration du serveur. Toute modification de cette Constitution doit passer par un débat puis par un vote des admis·es, à l'exception des questions d'orthographe et de présentation.
 
- * Amendement n°1, permetant à l'administration d'ajouter des salons (30 pour, 1 contre)
- * Amendement n°2, permetant à l'administration des réhabiliter des banni.e.s (30 pour, 5 contre)
- * Amendement n°3, relatif à la séparation de l'administration en deux équipes : modération et technicien.ne.s (31 pour, 7 contre, 4 neutre)
+Invitation vers ce serveur : http://www.la-commune.net/
+Documentation du serveur : http://doc.la-commune.net/
 
-# Objectif et fonctionnement général
+📜 __**ARTICLE I : Généralités**__ 📜
 
-## ARTICLE I
-
-Ce serveur est avant tout politique et fonctionne de manière autogérée autant que possible.
-
+Ce serveur est avant tout un espace politique en ligne, ouvert aux personnes de gauche ou à celles qui s'y intéressent.
 Ses objectifs sont les suivants :
- * La mise en commun de connaissances théoriques et pratiques.
- * L'organisation de la riposte contre le gouvernement, de droite, de Macron
- * La lutte contre la banalisation et la propagation de l'extrême droite dans les luttes sociales et sur internet.
- * La mise en place de la convergence des luttes des différentes idéologies de gauche, notamment en nous enrichissant mutuellement de nos analyses et de nos savoirs, et en développant des liens affectifs entre individus d'idéologie différente.
 
-## ARTICLE II
+🔸 La mise en commun et la diffusion de connaissances théoriques et pratiques de gauche.
+🔸 Le partage de moyens de lutte contre le banalisation et la propagation de l'extrême-droite et des théories libérales dans les luttes sociales et sur internet.
+🔸 Le rassemblement de diverses tendances de gauche, pour nous enrichir mutuellement de nos analyses et de nos savoirs.
 
-Un filtrage des nouveaux membres est en place avec pour objectif de limiter l'entrée de personnes pouvant interferer dans le bon fonctionnement du discord que ce soit à cause de leurs propos, de leur idéologie ou de leur volonté manifeste et consciente de nuire.
-L'admission des nouveaux membres devra, donc, suivre les étapes décrites ci-dessous:
+Le présent serveur n'a pas pour vocation d'organiser des actions IRL ou de partager des informations privées. Les conversations n'y sont pas "safes" et chaque membre est responsable de ses propos.
 
- * Fournir des informations suffisantes permettant de determiner si vous êtes quelqu'un de gauche (compte twitter, personne(s) connue(s) sur le serveur...) dans le canal #accueil.
- * Si les membres du serveur l'estiment necessaire, il est possible de faire passer aux nouveaux·elles un entretrien oral dans le canal vocal #interrogatoires.
+📜 __**ARTICLE II : Règles principales**__ 📜
 
-Une fois accepté·e, vous obtenez l'étiquettes @admis·e et êtes libres de vous attribuer les étiquettes de votre choix à l'exception des étiquettes "**Féministes**", "**Racisé·e·s**", "**LGBT+**" et "**Neuroatypiques**" qui sont réservées aux concerné·e·s (Vous pouvez en revanche vous afficher en tant qu'allié·e si vous le souhaitez).
+Les membres sont tenus de respecter un certains nombres de règles sous peine de sanctions.
+Les règles suivantes s’appliquent sur l’intégralité du serveur. Les membres y dérogeant de façon outrancière sur d’autres serveurs peuvent être tenus de s’expliquer :
 
-Si les étiquettes existantes ne vous conviennent pas, vous êtes libres de créer les vôtres, dans la limite du raisonnable.
+🔸 Les propos racistes, homophobes, transphobes, sexistes, validistes, le slut ou le body shaming, le victim-blaming, le mépris de classe, l’appel ou l’apologie de la violence physique ou verbale envers des groupes dominés socialement et/ou envers d’autres membres du discord ne seront pas tolérés, y compris sous couvert d’humour. Le harcèlement moral, sexuel et l’apologie du viol sont proscrits.
+🔸 Le combat contre l’extrême droite est l’un des objectifs de ce discord et de la gauche en général. Aussi, les discours prônant un rapprochement de l’(extrême) gauche et de l’extrême droite sont prohibés, ainsi que les personnalités entretenant le flou entre les deux. Si vous avez un doute, n’hésitez pas à poser la question.
+🔸 Essayez de respecter les canaux de discussion, particulièrement pour ce qui est du shitpost
+🔸 Le serveur rassemble des gens aux convictions très diverses. Évitez le paternalisme et / ou le mépris envers les gens dont vous ne partagez pas les opinions. Tendez toujours à la compréhension mutuelle.
+🔸 La non-mixité est un outil indispensable à l’émancipation des catégories sociales opprimées, et de fait l’existence des salons non-mixtes ne saurait être remis en cause. Toute tentative d’intrusion par des personnes non-concernées est passible de bannissement.
+🔸 Le serveur fonctionne sur la base de la bonne volonté, ce qui signifie que chaque membre admis dispose d’un certain nombre de pouvoirs. Les personnes en abusant et donc mettant en péril l’équilibre du serveur se verront privées de leurs droits, expulsées voire bannies.
+🔸 Tout message contenant des informations personnelles sur vous-même ou une autre personne peut être supprimé sans préavis, dans un objectif de protection des membres.
 
-Si vous êtes concerné·e·s et que vous souhaitez avoir accès aux salons non-mixtes, vous pouvez en faire la demande à la modération.
+📜 __**ARTICLE III : Admis·es et Invité·e·s**__ 📜
 
-## ARTICLE III
+Deux catégories de membres existent sur la Commune : les **Admis·es** et les **Invité·e·s**. Les admis·e·s sont des personnes identifiées comme de gauche, à la suite de la procédure d'accueil et de validation. Toute personne non-admise, se revendiquant de gauche ou non, mais ayant une volonté manifeste d'en apprendre plus sur les différents courants présents sur le serveur et se comportant de manière respectueuse, y compris dans ses propos, peut obtenir le statut d'invité·e.
+Les invité·e·s ont accès aux salons de discussion généraux et aux salons de détente, et peuvent seulement lire les salons de partage de connaissances, d'articles, ou de documents. Les admis·es ont un accès complet à ces mêmes salons, mais peuvent en plus accéder à des salons qui leur sont réservés et servent à l'organisation. Les admis·es peuvent voter aux élections du serveur et se présenter aux postes de Technicien·ne et de Modérateur·rice (voir articles VIII et IX). Iels peuvent aussi participer à l'accueil des nouveaux·elles arrivant·e·s. De plus, les admis·es peuvent gérer les messages du serveur, expulser ou bannir les invité·e·s en justifiant précisément ces actions, et accéder aux audit logs. Tout abus de ces droits entraîne le retrait temporaire ou définitif du rôle Admis.e et peut conduire à un bannissement. Tous les membres du serveur peuvent participer aux évènements organisés (lectures, cours ...) mais seul·e·s les admis·es peuvent en organiser sans validation préalable de la modération.
 
-Chaque personne admise au sein de "**__La Commune__**" à la possibilité de choisir et de créer les étiquettes lui permettant de se définir, d'épingler des messages, de supprimer les messages d'un tiers, d'expulser, de bannir et d'accéder aux audits logs. Chaque bannissement devra être justifié quel que soit le grade de la personne qui le prononce (tout abus entrainera le retrait du droit de bannissement temporairement ou définitivement selon la nature).
+📜 __**ARTICLE IV : Procédure d'accueil et d'admission**__ 📜
 
-## ARTICLE IV
+La procédure d'accueil d'un membre sur la Commune se déroule comme suit :
 
-Le discord est divisé en plusieurs catégories qui sont décrites ci-dessous:
+🔸 L'arrivant·e doit fournir, par écrit dans le salon <#460453291063771147>, le moyen par lequel iel a trouvé le serveur et une brève description de ses opinions politiques. Si possible, iel fournit aussi son compte Twitter (au besoin en message privé à la modération). Les admis·es peuvent poser d'autres questions dans le but d'éclairer certains points, en prenant garde à ne pas bombarder l'arrivant·e. A la suite de ces dernières, l'arrivant·e est soit accepté.e en tant qu'invité·e, soit kické·e, soit banni·e.
+🔸 Pour passer en admis·e et participer aux prises de décisions du serveur, l'invité·e doit passer un vocal d'admission. Ce vocal doit avoir lieu en présence d'au moins deux membres admis de La Commune, dont au moins un·e membre de la modération. Il a pour but de déterminer si l'invité·e a sa place parmi les admis·es ou non. Ce n'est ni une interrogation de connaissances, ni un interrogatoire formel, mais une simple discussion sur différents sujets politiques et/ou d'actualité. A la suite de cet entretien, les personnes présentes prennent leur décision sur l'admission.
 
- * **__Annonces et administration__**: est consacrée au fonctionnement général du serveur.
- * **__Discussions__**: Pour les débats entre membres.
- * **__Partages__**: Pour partager des savoir entre membres et des visuels pour la propagande sur Internet.
- * **__Salon non mixtes__**: Consacrés au débat entre concerné·e·s
- * **__Détente__**: Dédiée au shitpost et aux jeux.
- * **__Salons vocaux__**: Pour les personnes en vocal n'ayant pas de micro ou pour l'utilisation du bot musique
- * **__Agora__**: L'ensembles de salons disponibles pour les personnes qui ne sont pas encore admises.
-D'autres salons ou catégories peuvent être ajoutées si le besoin est.
+Seul·e·s les membres déjà admis·es par le passé peuvent éviter ce vocal. Les personnes bannies auparavant doivent, à la suite de la révocation de leur ban par un vote, repasser un vocal d'admission.
 
-## ARTICLE V
+📜 __**ARTICLE V : Rôles**__ 📜
 
-Il existe des salons non-mixtes, seulement les concerné.e.s peuvent y en revendiquer l'accès. Iels doivent pour cela contacter la modération. Les salons non-mixtes sont:
- * **#nm_racise-e-s** : pour les personnes victimes de racisme systémique.
- * **#nm_feministe** : pour toutes les personnes qui ne sont pas des hommes cisgenres.
- * **#nm_lgbti** : pour toutes les personnes se reconnaissant dans l’étiquette LGBT+.
- * **#nm_neuroatypique** : Pour les personnes neuroatypique / psychoatypique (autisme, HPI/HQI/HP/Zèbre, troubles du comportements, de la personnalité, dys etc)
+Les étiquettes de rôles sur la Communes sont auto-attributives (à l'exception des rôles administratifs : Modération, Technicien.ne.s, Admis.e, Invité.e, A interroger et Nouveaux·elles) et ont plusieurs fonctions:
+🔸 Les rôles Abonné.e à [journal] permettent aux personnes n'étant pas abonnées à un titre de presse nécessitant une souscription de mentionner le dit rôle (@Abonné.e.s à [X]) afin d'obtenir l'article et/ou la vidéo, par exemple au format PDF ;
+🔸 Les rôles Traducteur.ice.s [Langue], Graphiste, Développeur.euse, Relecteur.trice permettent aux personnes ayant des compétences dans ces domaines de notifier leur envie de participer aux projets de Radicalisé.e.s sur Internet (Politiscales, site etc.) ;
+🔸 Les rôles de type "Sujet/Tendance", invisibles, signalent des connaissances sur le sujet ou la tendance, et permettent de se faire mentionner en cas de débat ou de question ;
+🔸 Les rôles de type "Couleur" sont purement esthétiques et ne doivent refléter aucune préférence ou tendance politique ;
+🔸 Les rôles administratifs du type "Aide aux interrogatoires" servent au bon fonctionnement du serveur.
+Seul·e·s les admis.e.s peuvent créer et s'attribuer des rôles.
 
-# Règles et sanctions
+📜 __**ARTICLE VI : Salons**__ 📜
 
-## ARTICLE VI
+Le serveur est divisé en plusieurs catégories dont notamment :
 
-Le discord doit être un espace le plus bienveillant, le moins toxique et le moins oppressif possible. Afin de respecter cet objectif, les membres sont tenus de respecter un certains nombres de règles sous peine de sanctions.
+🔸 **Accès :** pour l'arrivée des nouveaux·elles sur La Commune, et les salons dédiés aux admissions
+🔸 **Organisation :** pour le fonctionnement général du serveur
+🔸 **La Commune :** pour les discussions et débats entre membres admis et invités
+🔸 **Partage :** pour partager les articles, visuels, livres, etc, qui sont en lien avec les idées de gauche diffusées par ce serveur
+🔸 **Initiatives :** pour toutes les idées, projets, envies en lien avec les objectifs du serveur
+🔸 **Salons non-mixtes :** pour les discussions et débats au sein d'un groupe opprimés
+🔸 **Détente : ** pour le shitpost, les jeux et la musique
+🔸 **Événement : ** pour échanger autour des évènements organisés par La Commune
 
-Les règles suivantes s'appliquent sur l’intégralité du discord. Les membres y dérogeant de façon outrancière sur d’autres serveurs peuvent être tenus de s'expliquer :
+Les admis·e·s ont accès à toutes ces catégories, pas les invité·e·s. Les différents droits sur ces salons, et l'organisation de ces salons, peuvent être modifiés sans modification de la Consitution. La nature des accès et l'objet du salon sont indiqués dans la description de ce dernier.
 
-1. Les propos racistes, homophobes, transphobes, sexistes, validistes, le slut ou le body shaming, le victime-blaming, le mépris de classe, l’appel ou l’apologie de la violence physique ou verbale envers des groupes dominés socialement et/ou envers d’autres membres du discord ne seront pas tolérés, y compris sous couvert d’humour. Le harcèlement moral, sexuel et l’apologie du viol sont proscrits.
+📜 __**ARTICLE VII : Espaces non-mixtes**__ 📜
 
-2. Le combat contre l’extrême droite est l’un des objectifs de ce discord et de la gauche en général. Aussi, les discours prônant un rapprochement de l'*(extrême)* gauche et de l’extrême droite sont prohibés, ainsi que les personnalités entretenant le flou entre les deux. Si vous avez un doute, n’hésitez pas à poser la question.
+Il existe des salons non-mixtes, où seuls les gens subissant matériellement les oppressions correspondantes peuvent y en revendiquer l’accès. Iels doivent pour cela contacter la modération ou un membre du salon non-mixte. Les salons NM doivent servir à l'aide et la formation politique au seins des groupes opprimés, et non à montrer que l'ensemble du serveur est allié à ces luttes. Les salons non-mixtes sont:
 
-3. Essayez de respecter les canaux de discussion, particulièrement pour ce qui est du shitpost
+🔸 **#nm_racisé-e-s :** pour les personnes victimes de racisme systémique.
+🔸 **#nm_féministe :** pour toutes les personnes qui ne sont pas des hommes cisgenres.
+🔸 **#nm_lgbti :** pour toutes les personnes se reconnaissant dans l’étiquette LGBTI.
+🔸 **#nm_neurodivergent-e-s :** Pour les personnes neuroatypique / psychoatypique / neurodivergentes (autisme, HPI/HQI/HP/Zèbre, troubles du comportements, de la personnalité, dys etc)
+🔸 **#nm_trans :** pour les personnes trans (ayant fait une transition, sociale et/ou médicale, ou projetant de le faire)
 
-4. Le serveur rassemble des gens aux convictions très diverses. Evitez le paternalisme et / ou le mépris envers les gens dont vous ne partagez pas les opinions. Tendez toujours à la compréhension mutuelle.
+L'accès à ces salons est accordé sur demande aux membres des non-mixtes, qui sont seul.e.s responsables de l'organisation du salon, de son contenu, et de son devenir.
+La création de nouveaux salons non-mixtes doit se faire sur la demande de plusieurs personnes concernées et par consensus avec le reste du serveur.
 
-5. La non-mixité est un outil indispensable à l’émancipation des catégories sociales opprimées, et de fait l’existence des salons non-mixtes ne saurait être remis en cause. Toute tentative d’intrusion par des personnes non-concernées est passible de bannissement. Si vous souhaitez discuter particulièrement de ces luttes, le salon #discussions_mixtes existe pour cela.  
+📜 __**ARTICLE VIII : Technicien.ne.s**__ 📜
 
-6. Le serveur fonctionne de manière *(un peu)* autogérée, ce qui signifie que chaque membre admis dispose d’un certain nombre de pouvoirs. Les personnes en abusant et donc mettant en péril l’équilibre du serveur se verront privées de leurs droits, expulsées voire bannies;
+Les technicien·ne·s sont ici pour gérer les permissions, les salons, les bots et les services connectés à Discord. Iels bénéficient de la permission « administration » mais ne doivent pas effectuer de modification qui n'ait pas été demandée par les membres, à l’exception des opérations de maintenance et des opérations cosmétiques. L’équipe technique peut donner son avis au même titre que tous les membres, mais ne doit pas trancher les décisions. Elle ne doit pas effectuer les tâches propre à l’équipe de modération (voir article suivant).
+Tous les mois, une élection est organisée pour renouveler l’équipe technique. Un membre ne peut se représenter qu’une fois de suite, sauf en cas de manque de candidatures.
 
-## ARTICLE VII
+📜 __**ARTICLE IX : Modération**__ 📜
 
-Les sanctions se divisent en cinq niveaux et sont appliquées en fonction de la gravité de la faute:
- * Un simple rappel à l’ordre.
- * Une suppression du message.
- * Un passage par la salle de réflexion.
- * Suppression des droits sur la gestion du serveur.
- * Une exclusion temporaire.
- * Une exclusion définitive.
+Les modérateur·ice·s sont ici pour réguler les rapports entre les membres. Leur but est d’accueillir les arrivant·e·s en vérifiant leur identité et d’encadrer les discussions entre les membres. Afin d’accomplir leur rôle, iels peuvent:
 
-Ces sanctions seront publiées par souci de transparence.
-La modération peut réhabiliter une personne exclue après un certain temps si elle estime que cette réhabilitation ne pourra pas causer de tort au serveur.
+🔸 Appliquer des sanctions de l'Article X
+🔸 Supprimer les messages abusifs ou hors-sujet,
+🔸 Couper le micro et le son d’un.e membre et les déplacer dans un autre salon vocal.
 
-# Administration
+Tous les mois, une élection est organisée pour renouveler l’équipe de modération. Un membre ne peut se représenter qu’une fois de suite, sauf en cas de manque de candidatures. Aucun membre de l’équipe technique ne doit être modérateur.rice et inversement, afin de respecter la séparation des pouvoirs. Si vous pensez qu’un membre de l’équipe de modération ou de l’équipe technique abuse de ses pouvoirs, n’hésitez pas à contacter les autres membres des équipes pour en parler. Si le comportement se reproduit, vous pouvez demander sa destitution. Si la demande est légitime, une scrutin majoritaire contraignant sera organisé.
 
-## ARTICLE VIII
+📜 __**ARTICLE X : Sanctions**__ 📜
 
-Les technicien.ne.s sont ici pour gérer les permissions, les salons, les bots et les services connectés à Discord. Iels bénéficient de la permission « administration » mais ne doivent pas effectuer de modification sans que les membres leurs aient demandé, à l'exception des opérations de maintenance et des opérations cosmétiques.
-L'équipe technique peut donner son avis au même titre que tous les membres, mais ne doit pas trancher les décisions.
-Elle ne doit pas effectuer les tâches propre à l'équipe de modération (voir article suivant).
+Les sanctions se divisent en cinq niveaux et sont appliquées en fonction de la gravité de la faute :
 
-Tous les mois, une élection est organisée pour renouveler l'équipe téchnique. Un membre ne peut se représenter qu'une fois de suite.
+🔸 Un simple rappel à l’ordre.
+🔸 Une suppression du message.
+🔸 La perte du statut "Admis·es"
+🔸 Une exclusion temporaire (kick)
+🔸 Une exclusion définitive (ban)
 
-## ARTICLE IX
+Ces sanctions seront publiées par souci de transparence. La modération peut réhabiliter une personne exclue après un certain temps si elle estime que cette réhabilitation ne pourra pas causer de tort au serveur, après discussion et vote avec le reste des membres.
 
-Les modérateur.ice.s sont ici pour réguler les rapports entre les membres. Leur but est d’accueillir les arrivant.e.s en vérifiant leur identité et d’encadrer les discussions entre les membres. Afin d’accomplir leur rôle, iels ont la possibilité de:
- * Expulser ou bannir les membres enfreignant le règlement,
- * Supprimer les messages abusifs ou hors-sujet,
- * Couper le micro et le son d’un.e membre et les déplacer dans un autre salon vocal.
+📜 __**ARTICLE XI : Impartialité**__ 📜
 
-Tous les mois, une élection est organisée pour renouveler l'équipe de modération. Un membre ne peut se représenter qu'une fois de suite.
-Aucun membre de l'équipe technique ne doit être modérateur.rice et inversement, afin de respecter la séparation des pouvoirs.
-Si vous pensez qu'un membre de l'équipe de modération ou de l'équipe technique abuse de ses pouvoirs, n’hésitez pas à contacter les autres membres des équipes pour en parler. Si le comportement se reproduit, vous pouvez demander sa destitution. Si la demande est légitime, une scrutin majoritaire contraignant sera organisé.
-
-## ARTICLE X
-
-À l’intérieur des limites des avis, idées, acceptés par la présente constitution, les équipes technique et de modération ne doivent pas utiliser leurs pouvoirs pour trancher des débats ou bannir pour des raisons politiques à la suite de ceux-ci. Elles doivent rester impartiales dans leurs décisions. Les modérateur.rice.s prendront leurs décisions en commun. L'objet du vote de la modération, les résultats, ainsi que les motivation de chacun.e des modérateur.ice.s seront publics , afin de garantir une pleine transparence.
-
-## ARTICLE XI
-
-Les salons/serveurs #nm_feministe, #nm_lgbti, #nm_racise-e-s et #nm_neuroatypique peuvent former une assemblée non-mixte afin d'outrepasser les décisions la modération concernant l'acceptation/le bannissement des personnes, afin de pouvoir exclure simplement et rapidement toutes personnes toxiques.
+À l’intérieur des limites des avis, idées, acceptés par la présente constitution, les équipes techniques et de modération ne doivent pas utiliser leurs pouvoirs pour trancher des débats ou bannir pour des raisons politiques à la suite de ceux-ci. Elles doivent rester impartiales dans leurs décisions. Les modérateur·rice·s prendront leurs décisions en commun. L’objet du vote de la modération, les résultats, ainsi que les motivation de chacun.e des modérateur.ice.s seront publics , afin de garantir une pleine transparence.
